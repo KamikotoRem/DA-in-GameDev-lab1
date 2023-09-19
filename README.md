@@ -41,7 +41,7 @@
 Ход работы:
 - Скачать Anaconda Navigaor и запустить jupiter Notebook. Создать папку с файлом .ipynb. Написать программу Hello world. 
 
-```py
+
 1
 ![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/71d7be7c-6743-4da7-8345-3643cd164b19)
 2
@@ -64,7 +64,7 @@
 ![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/4d306bc1-9357-4352-9d81-75e1e9d1e1de)
 Исправляем макет и готово!
 
-```py
+
 
 
 ## Выводы
