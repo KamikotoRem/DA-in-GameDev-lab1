@@ -54,16 +54,18 @@
 Ход работы:
 - Скачать unityHub, создать 3д проект, написать программу hello world на C#.
 1
-![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/151f5df8-46b9-4dcf-8def-4d39580f6cb7)
+![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/aa9f41e3-1783-4aef-8c01-d9cfe9172f02)
+
 2
-![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/ec578eda-3711-4c31-8741-f291b0af0cd6)
+![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/fce8b63a-31fc-4fc1-aedb-52ccc22cbecd)
 
 
 ## Задание 3
 ### GitHub
 Ход работы:
 - Сделать предыдущие два задания, зарегестрироваться в GitHub и создать репозиторий
-![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/4d306bc1-9357-4352-9d81-75e1e9d1e1de)
+![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/d11bc5f0-b222-4fe3-9e8a-eb4050034321)
+
 Исправляем макет и готово!
 
 
