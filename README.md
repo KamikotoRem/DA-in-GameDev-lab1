@@ -43,9 +43,11 @@
 
 
 1
-![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/71d7be7c-6743-4da7-8345-3643cd164b19)
+![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/1c7233f7-9dc1-47ae-86d7-340ce7185b48)
+
 2
-![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/dfd4966f-0a19-4b49-8c5a-a5f7413863d7)
+![image](https://github.com/KamikotoRem/DA-in-GameDev-lab1/assets/129965242/f9ade0df-1b41-43c1-b54c-7b383a89d044)
+
 
 ## Задание 2
 ### Unity
